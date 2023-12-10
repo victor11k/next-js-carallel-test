@@ -2,11 +2,6 @@
 
 Test assessment showcasing a Next.js application with mobile screen for Carallel application.
 
-## Screencast
-
-https://github.com/DanylKab/azure_ad_sso/assets/138477122/78333a83-c2a9-4e72-a17c-364934c67309
-
-You can find deployed version at: <https://azure-ad-sso.vercel.app/>
 
 ## Get Started
 
